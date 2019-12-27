@@ -5,5 +5,5 @@ The change-making problem addresses the question of finding the minimum number o
 troco.txt
 --------------
 
-8     // final value
+8     // final value \n
 2 4 1 // coins
