@@ -1,0 +1,2 @@
+Valor Total: 8 
+Numero de moedas usadas: 2
